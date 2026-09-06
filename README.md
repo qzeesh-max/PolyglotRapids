@@ -1,9 +1,13 @@
 # Polyglot Rapids
 
+<p align="center">
+  <img src="app/src/main/assets/polyglot_logo.png" alt="Polyglot Rapids Logo" width="300" />
+</p>
+
 Polyglot Rapids is an educational and fast-paced Android game where players steer a raft down a perilous river while simultaneously collecting letters to form words in one of 23 supported languages. Avoid rocks, logs, and shallows, hit ramps to jump over obstacles, and test your vocabulary skills in real-time!
 
 ## Origin
-This project is an Android port of the original `JavaNativeLink` Polyglot Rapids demo application. The original application utilized a hybrid Java + C++ architecture compiled to the web using TeaVM. This repository completely ports the C++ game engine logic into a 100% native Kotlin implementation specifically designed for modern Android devices.
+This project is an Android port of the original `Desmos` Polyglot Rapids demo application. The original application utilized a hybrid Java + C++ architecture compiled to the web using TeaVM. This repository completely ports the C++ game engine logic into a 100% native Kotlin implementation specifically designed for modern Android devices.
 
 ## Key Features
 - **100% Native Android**: Re-written from scratch in pure Kotlin, removing the need for JNI overhead.
