@@ -8,5 +8,5 @@ This application relies on the following open source technologies and libraries:
 - **[Android Open Source Project (AOSP)](https://source.android.com/)**: Providing the core Android framework and APIs.
 
 ## Fonts and Resources
-- Dictionary datasets were sourced from public domain word lists and curated for the original JavaNativeLink project.
+- Dictionary datasets were sourced from public domain word lists and curated for the original Desmos project.
 - Flag assets and icons were adapted from open source graphical resources.
